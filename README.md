@@ -20,38 +20,38 @@ All costs are listed in USD.
   <tbody>
     <tr>
       <td>Integy RC GuoHua A0090 9g Metal Gear Digital Micro Servo 6kg</td>
-      <td>22</td>
+      <td>29</td>
       <td>4.06</td>
-      <td>89.32</td>
+      <td>117.74</td>
       <td><a href="https://www.amazon.com/Integy-Model-C30371-GuoHua-Digital/dp/B09CXFTQD5">Purchase Link</a></td>
     </tr>
     <tr>
       <td>RC Spare Part Compatible with KS3518 Rc Car Waterproof Metal Digital Servo High Torque Mechanical Arm Hand Metal Servo Motor</td>
-      <td>5</td>
+      <td>4</td>
       <td>59.35</td>
-      <td>296.75</td>
+      <td>237.4</td>
       <td><a href="https://www.amazon.com/Compatible-KS3518-Waterproof-Digital-Mechanical/dp/B0F5M32RWP/ref=sr_1_1?crid=1ZYFWMTZ673IX&dib=eyJ2IjoiMSJ9.-IVdW-9xaY5TRunRA-fOByCKFwmgexoFSscOU4XObak_OgGp7tPTxuHn8rTex6RdVW8ZzTqmt-93lmZKtKbQbg.OwY5YXJU8kzRU_SVa4rOSpwvaStMnNZica_KsrZkigQ&dib_tag=se&keywords=KS3518&qid=1746275568&sprefix=ks3518%2Caps%2C524&sr=8-1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>U2D2 Control PCB</td>
-      <td>1</td>
-      <td>32.1</td>
-      <td>32.1</td>
-      <td><a href="https://www.robotis.us/u2d2/?srsltid=AfmBOopG82m7F47C2HJT4Q9btluaBp5lSfk2BS-57h5wBO3lwNoY3PoJ">Purchase Link</a></td>
+      <td>10pcs 3-Pin 30cm Servo Extension Cable Cord Female to Male Lead Wire Connector JR for RC Car Airplanes Remote Control-30mm</td>
+      <td>33</td>
+      <td>7.99</td>
+      <td>263.67</td>
+      <td><a href="https://www.amazon.com/ACEIRMC-Extension-Connector-Airplanes-Control/dp/B0CQ4QKDF4/ref=sr_1_1?crid=3J3MP55GZNXLH&dib=eyJ2IjoiMSJ9.dJ_7icrl7y_zcruG1rNP4gqMaCfjh7ZtjSwXCe8N0OHYAU6RNconHDlLu6u522g7KnUTjhK2TPnz88rJc0_sPFffWlyGiBy5AzQJzvl6NPlW11uXoEdy47y66cfeZ5t5s2S1Y0jxeK_MCJawDdH71p8KJL639Gn7mTsfxt8Wqg8Xl4gZNXHwW9nznBM8SVITe45HqTYbllLpcY2Yv7PvEXAgQFDjfKzjzrL2GThyj0qEqy6UsxdYl_-s_Gz_DE7APEpsvnYgLSLngVwKopAfBFNPWn0Efgr-5bIizl3B5Vk.Cf0EkTrjzDuOPsP6g5Z1neA-BpsSIktmKU1wx2UKClY&dib_tag=se&keywords=10pcs%2B3-Pin%2B30cm%2BServo%2BExtension%2BCable%2BCord%2BFemale%2Bto%2BMale%2BLead%2BWire%2BConnector%2BJR%2Bfor%2BRC%2BCar%2BAirplanes%2BRemote%2BControl&qid=1746276797&sprefix=10pcs%2B3-pin%2B30cm%2Bservo%2Bextension%2Bcable%2Bcord%2Bfemale%2Bto%2Bmale%2Blead%2Bwire%2Bconnector%2Bjr%2Bfor%2Brc%2Bcar%2Bairplanes%2Bremote%2Bcontrol%2Caps%2C1007&sr=8-1&th=1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>12V 20A Power Supply</td>
-      <td>1</td>
-      <td>24.99</td>
-      <td>24.99</td>
-      <td><a href="https://www.amazon.com/ALITOVE-Transformer-Switching-Converter-Security/dp/B078RTV41D/ref=sr_1_3?crid=LCJQ1V2TU0EB&dib=eyJ2IjoiMSJ9.Kxeyt91Idkbcjh1y_fQOAjghVZS97hMwZsH4yH1GieoZD_forxBJ-62ip1KKh9JL9R50_Nux_DVIU5crJvKceO14VzZkJC2G57tr63tQtc9sa6K-szQXQuRq5iG4ZjIDiRIbpYpDXZzkMoP7vCUyn6H3OWPANXVTb2ZOVNJNLK4zHJRjYjXpw0pCzSDdwAUOg07-qadvFRChFB-3dxqCqYDg-b9sBytRpJ0sqZHlWjA.4qeYQoE35kHmUwadwKLXvS3hRhdNbgZRytdsr3L_3hU&dib_tag=se&keywords=12V+20A+Power+Supply&qid=1743277220&sprefix=12v+20a+power+supply%2Caps%2C97&sr=8-3">Purchase Link</a></td>
+      <td>550PCS M3 Screw Kit</td>
+      <td>4</td>
+      <td>9.99</td>
+      <td>39.96</td>
+      <td><a href="https://www.amazon.com/Bemaka-550PCS-Washers-Assortment-Stainless/dp/B0D5CSSYGH/ref=sr_1_3?crid=3I297HCT5TOLQ&dib=eyJ2IjoiMSJ9.okmcfd6HyVTJIzNKNtB4FzL5gUiqx03RpjxbclyBtirWbdz31U-Z-v3emuozcGUyQDJRwp0pTkhCtpuRK8fNdjtT8qIjdSXJpyGl9snh0MtOGcIQ5Oyw5SdlZA_NJ3HUDntG66DobARBKUCOT_2a-YezcjxMEXg5pVeVdZmy71fjnJZHLODOjJkWR8oY4jG6iH3bhGh464G9uo_7DKZzt5LXcCVtQgG4aXnVEjOVzko.pzqDIS308TxAJsvm6v4tA4x-2eJg8bWnyruLxR_KITo&dib_tag=se&keywords=stainless%2Bsteel%2BM3%2Bscrew%2Band%2Bnut%2Bset&qid=1746276660&sprefix=stainless%2Bsteel%2Bm%2Bscrew%2Band%2Bnut%2Bset%2Caps%2C1258&sr=8-3&th=1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>FPX330-S102 Servo Bracket</td>
       <td>1</td>
       <td>8.7</td>
       <td>8.7</td>
-      <td><a href="https://www.robotis.us/fpx330-s102-4pcs-set/">Purchase Link</a></td>
+      <td><a href="10pcs 3-Pin 30cm Servo Extension Cable Cord Female to Male Lead Wire Connector JR for RC Car Airplanes Remote Control">Purchase Link</a></td>
     </tr>
     <tr>
       <td>Polymaker PLA PRO Filament</td>
