@@ -48,23 +48,23 @@ All costs are listed in USD.
     </tr>
     <tr>
       <td>M3 11.8Inch Pushrod Connector 304 Stainless Steel Rod Linkage for RC Model Airplane Helicopter Boat Car DIY Parts 12Pcs</td>
-      <td>1</td>
-      <td>8.7</td>
-      <td>8.7</td>
+      <td>4</td>
+      <td>7.98</td>
+      <td>31.92</td>
       <td><a href="https://www.amazon.com/11-8Inch-Connector-Stainless-Airplane-Helicopter/dp/B0BGQZK6HK/ref=sr_1_23?crid=QHSI5URBI5JS&dib=eyJ2IjoiMSJ9.-ax7qPa1otcitqggRyWXTn02V6ZPnFc4uqnrqz9O4VZgzbX7-5i4P50RrUKAmow5y1Qh6wpUXeQsCUiv9W3dFm3cRL3Scp-A8RJLKOf8uj_sXItyp1Fy-4dMFJIoM04ByhcYcR_R_fEx6FSSV1IdSSeXZkIN2gzhUIfa1HHuOFgY_3IFONvTkeuuSYr0DrNXi-RsjN3WkNp7M7kqG-9SM7IBglgPWzRfoQJpWobHB6kYZEFKoz9Aw3QuSSBmYY56v8raTvlF_8RSwhty4TbdilMAflaR52zxv0_t8wsg9Fk.MvZ9FppJ4VbCLlSVitCV5iMmOueTRuOlBq1PQqXHzXY&dib_tag=se&keywords=RC%2Bpush%2Brod&qid=1746278638&sprefix=crank%2Bairplane%2Bmodel%2Caps%2C1709&sr=8-23&th=1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>Polymaker PLA PRO Filament</td>
-      <td>1</td>
+      <td>12Pack Vgoohobby Metal M3 Tie Rod End Ball Holder RC Joint Link Ball Head Holder CW Compatible with HSP Traxxas HPI Axial Redcat Racing 1/10 RC Car Truck Buggy Crawler</td>
+      <td>4</td>
+      <td>7.98</td>
       <td>24.99</td>
-      <td>24.99</td>
-      <td><a href="https://www.amazon.com/dp/B099KS2PDW?ref_=cm_sw_r_cp_ud_dp_9TYAHY4XBF45WRGQJGQ6">Purchase Link</a></td>
+      <td><a href="https://www.amazon.com/12Pack-Vgoohobby-Compatible-Traxxas-Crawler/dp/B0BHF2WG1V/ref=sr_1_11?crid=3F0VT81HKNKS&dib=eyJ2IjoiMSJ9.FDixr-qtQ5yan8wKBDNU25c-rp8eoXI1J5Y9aHt3uHUxyAku9Ogeyop--tCKbTuIIB1h1Eismgek2ZB34CF-LFqRFbgw-teF4vWrD0rIIwvqFbVn6lYMMvuJs4dmnZBxmOaUd97DGwwV56ivxqRoRwAZE-VDN0UDg681w2_MPANQhWp7k6Pn7FG94LlLoz_9-LuahFjpX04lNLODzHiDocP0Pt0rV-8CT5spHCeXzdARI5235U4CCVsFNAwFOuw3TgirptzZtY4leVxO7eH02xzUEvWyvw84XRSH80EM8Nk.rhLFGqMgsKmj6L7c5Hk9TCrqHOGdF4SqDOpC-iC4KTE&dib_tag=se&keywords=Metal%2Bball%2Bjoint%2Bfor%2BRC%2BM3&qid=1746278887&sprefix=metal%2Bball%2Bjoint%2Bfor%2Brc%2Bm%2Caps%2C329&sr=8-11&th=1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>U2D2 Power Hub Board</td>
-      <td>1</td>
-      <td>19.99</td>
-      <td>19.99</td>
+      <td>6</td>
+      <td>12.99</td>
+      <td>77.94</td>
       <td><a href="https://www.robotis.us/u2d2-power-hub-board-set/">Purchase Link</a></td>
     </tr>
     <tr>
