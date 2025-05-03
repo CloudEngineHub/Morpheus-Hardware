@@ -20,17 +20,17 @@ All costs are listed in USD.
   <tbody>
     <tr>
       <td>Integy RC GuoHua A0090 9g Metal Gear Digital Micro Servo 6kg</td>
-      <td>2</td>
-      <td>269.9</td>
-      <td>539.8</td>
+      <td>22</td>
+      <td>4.06</td>
+      <td>89.32</td>
       <td><a href="https://www.amazon.com/Integy-Model-C30371-GuoHua-Digital/dp/B09CXFTQD5">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>Dynamixel XC330-T288-T Servo Motor</td>
-      <td>6</td>
-      <td>89.9</td>
-      <td>539.4</td>
-      <td><a href="https://www.robotis.us/dynamixel-xc330-t288-t/?srsltid=AfmBOorRrAWvftzU-3zQruqD46WsC6kCz7jB14RhFxfvdM6v92H2eI7V">Purchase Link</a></td>
+      <td>RC Spare Part Compatible with KS3518 Rc Car Waterproof Metal Digital Servo High Torque Mechanical Arm Hand Metal Servo Motor</td>
+      <td>5</td>
+      <td>59.35</td>
+      <td>296.75</td>
+      <td><a href="https://www.amazon.com/Compatible-KS3518-Waterproof-Digital-Mechanical/dp/B0F5M32RWP/ref=sr_1_1?crid=1ZYFWMTZ673IX&dib=eyJ2IjoiMSJ9.-IVdW-9xaY5TRunRA-fOByCKFwmgexoFSscOU4XObak_OgGp7tPTxuHn8rTex6RdVW8ZzTqmt-93lmZKtKbQbg.OwY5YXJU8kzRU_SVa4rOSpwvaStMnNZica_KsrZkigQ&dib_tag=se&keywords=KS3518&qid=1746275568&sprefix=ks3518%2Caps%2C524&sr=8-1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>U2D2 Control PCB</td>
