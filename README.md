@@ -82,42 +82,6 @@ All costs are listed in USD.
       <td><a href="https://www.amazon.com/Realistic-Accessories-Halloween-Pranking-Horrific/dp/B096V99JD5/ref=sr_1_1?crid=3140KQ841179A&dib=eyJ2IjoiMSJ9.3ndHWgEOrgCivdItMQ0-QIEL4AlDGgxiD35ca00FekXP5fYhPSH5zlyIQs-O7KuSXxLmNWAjtQNnHGf4q-cPzvWEgy3vvHSDanxC01IV9r1BHC1y-0kjmeNen1iDk3DM2T3yetF5TPk5l6efMv44qb7qUGCZPva_63vq4apfYXekJC2RA2Szv0owWTWaPXw8BCOwj4zkqEOGcge86ad27naSHq0YSe97fhwAqaIWX8afwGEwhk-EIgq248ELp2qYAS9Afwm_LmBG9aHkqPCgwNRjsq6MqGV_mHSJy1qjVDY.qo0brqmLdoasSz-9Sf0rFuapySzLbTl0wmHeHNQ1p1k&dib_tag=se&keywords=fake+tongue+prank&qid=1746280431&sprefix=fake+tongue+prink%2Caps%2C303&sr=8-1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>M2.5×8mm</td>
-      <td>8</td>
-      <td>N/A</td>
-      <td rowspan="3">15.99</td>
-      <td rowspan="3"><a href="https://www.amazon.com/NINDEJIN-Replacement-Computer-Miniature-Motherboard/dp/B08KXS2MWG/ref=sr_1_1_sspa?crid=2NVAZ4XAN3O2&dib=eyJ2IjoiMSJ9.zde0Rrsf9T_7G-uo4dB6ABc6Cjwvtn542RfotcCrKrvpyQYxphB2EbQjEGTwsP08d7CWl00KmjDuJVFQuNHbIIAsjCoZxKU18TIXQaUP0ppWkQ1_5fL0NkLm3Mh10ewzyIW7jZCWb1FwOIBS_z9TbihBJoMqb5w9ItBB6gfShFHpLh9SVrCVhgXAz1OMf267YAx96847NO0FVyXY-bVjf9nRCJ_H4A4Nu8NXlNcJuuOdfWL4aOTaJuMJ-JOWHS35A6DqghFqOu6hpEB25G5oNmd0JRcxPBfdSdNfHTtmDCE.izhqmXalArYdqS6Ag_oHXnGNkeLCB_QZmpLKuypHcD4&dib_tag=se&keywords=m2%2Bm2.5%2Bkit&qid=1743277446&s=industrial&sprefix=m2%2Bm2.5%2Bki%2Cindustrial%2C83&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">Purchase link</a></td>
-    </tr>
-    <tr>
-      <td>M2×10mm</td>
-      <td>20</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>M2×6mm</td>
-      <td>14</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>M2×8mm (Self Tapping)</td>
-      <td>24</td>
-      <td>N/A</td>
-      <td rowspan="2">0</td>
-      <td rowspan="2">Comes with Dynamixel XC330-T288-T Servo Motor</td>
-    </tr>
-    <tr>
-      <td>M2×6mm (Self Tapping)</td>
-      <td>8</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>M2×4mm</td>
-      <td>4</td>
-      <td>N/A</td>
-      <td>0</td>
-      <td>Comes with FPX330-S102 Servo Bracket</td>
-    </tr>
-    <tr>
       <td colspan="3"><b>Total</b></td>
       <td colspan="2"><b>1229.95</b></td>
     </tr>
