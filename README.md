@@ -47,11 +47,11 @@ All costs are listed in USD.
       <td><a href="https://www.amazon.com/Bemaka-550PCS-Washers-Assortment-Stainless/dp/B0D5CSSYGH/ref=sr_1_3?crid=3I297HCT5TOLQ&dib=eyJ2IjoiMSJ9.okmcfd6HyVTJIzNKNtB4FzL5gUiqx03RpjxbclyBtirWbdz31U-Z-v3emuozcGUyQDJRwp0pTkhCtpuRK8fNdjtT8qIjdSXJpyGl9snh0MtOGcIQ5Oyw5SdlZA_NJ3HUDntG66DobARBKUCOT_2a-YezcjxMEXg5pVeVdZmy71fjnJZHLODOjJkWR8oY4jG6iH3bhGh464G9uo_7DKZzt5LXcCVtQgG4aXnVEjOVzko.pzqDIS308TxAJsvm6v4tA4x-2eJg8bWnyruLxR_KITo&dib_tag=se&keywords=stainless%2Bsteel%2BM3%2Bscrew%2Band%2Bnut%2Bset&qid=1746276660&sprefix=stainless%2Bsteel%2Bm%2Bscrew%2Band%2Bnut%2Bset%2Caps%2C1258&sr=8-3&th=1">Purchase Link</a></td>
     </tr>
     <tr>
-      <td>FPX330-S102 Servo Bracket</td>
+      <td>M3 11.8Inch Pushrod Connector 304 Stainless Steel Rod Linkage for RC Model Airplane Helicopter Boat Car DIY Parts 12Pcs</td>
       <td>1</td>
       <td>8.7</td>
       <td>8.7</td>
-      <td><a href="10pcs 3-Pin 30cm Servo Extension Cable Cord Female to Male Lead Wire Connector JR for RC Car Airplanes Remote Control">Purchase Link</a></td>
+      <td><a href="https://www.amazon.com/11-8Inch-Connector-Stainless-Airplane-Helicopter/dp/B0BGQZK6HK/ref=sr_1_23?crid=QHSI5URBI5JS&dib=eyJ2IjoiMSJ9.-ax7qPa1otcitqggRyWXTn02V6ZPnFc4uqnrqz9O4VZgzbX7-5i4P50RrUKAmow5y1Qh6wpUXeQsCUiv9W3dFm3cRL3Scp-A8RJLKOf8uj_sXItyp1Fy-4dMFJIoM04ByhcYcR_R_fEx6FSSV1IdSSeXZkIN2gzhUIfa1HHuOFgY_3IFONvTkeuuSYr0DrNXi-RsjN3WkNp7M7kqG-9SM7IBglgPWzRfoQJpWobHB6kYZEFKoz9Aw3QuSSBmYY56v8raTvlF_8RSwhty4TbdilMAflaR52zxv0_t8wsg9Fk.MvZ9FppJ4VbCLlSVitCV5iMmOueTRuOlBq1PQqXHzXY&dib_tag=se&keywords=RC%2Bpush%2Brod&qid=1746278638&sprefix=crank%2Bairplane%2Bmodel%2Caps%2C1709&sr=8-23&th=1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>Polymaker PLA PRO Filament</td>
