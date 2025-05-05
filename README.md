@@ -4,6 +4,11 @@
 
 [Project Page](https://jasonjzliu.com/factr/) | [arXiV](https://arxiv.org/abs/2502.17432) | [FACTR](https://github.com/RaindragonD/factr/) | [FACTR Teleop](https://github.com/RaindragonD/factr_teleop/) 
 
+## Catalog
+- [Bill of Materials](#bill-of-materials)
+- [Building Instructions](#building-instructions)
+- [License and Acknowledgements](#license-and-acknowledgements)
+- [Citation](#citation)
 
 ## Bill of Materials
 All costs are listed in USD.
@@ -82,8 +87,15 @@ All costs are listed in USD.
       <td><a href="https://www.amazon.com/Realistic-Accessories-Halloween-Pranking-Horrific/dp/B096V99JD5/ref=sr_1_1?crid=3140KQ841179A&dib=eyJ2IjoiMSJ9.3ndHWgEOrgCivdItMQ0-QIEL4AlDGgxiD35ca00FekXP5fYhPSH5zlyIQs-O7KuSXxLmNWAjtQNnHGf4q-cPzvWEgy3vvHSDanxC01IV9r1BHC1y-0kjmeNen1iDk3DM2T3yetF5TPk5l6efMv44qb7qUGCZPva_63vq4apfYXekJC2RA2Szv0owWTWaPXw8BCOwj4zkqEOGcge86ad27naSHq0YSe97fhwAqaIWX8afwGEwhk-EIgq248ELp2qYAS9Afwm_LmBG9aHkqPCgwNRjsq6MqGV_mHSJy1qjVDY.qo0brqmLdoasSz-9Sf0rFuapySzLbTl0wmHeHNQ1p1k&dib_tag=se&keywords=fake+tongue+prank&qid=1746280431&sprefix=fake+tongue+prink%2Caps%2C303&sr=8-1">Purchase Link</a></td>
     </tr>
     <tr>
+      <td>2 Pcs 8mm to 8mm Universal Joint Shaft Coupling with Screws for Motor</td>
+      <td>1</td>
+      <td>11.99</td>
+      <td>11.99</td>
+      <td><a href="https://www.amazon.com/Befenybay-Universal-Joint-Coupling-Screws/dp/B07V9NTQLH/ref=sr_1_3?crid=1NG4AYO30X8CT&dib=eyJ2IjoiMSJ9.pRH26F92Lz3OeVdv1pTKc72IUOBnlLi4y21j7uUs7LypfLJ90N8WLf1Pr33N9hjNsJ1W_2myh17gl-EuCV0swDw-iJiFZEv0W5Bxj6aqzEum0yF1xVbMhsa3Z7IaUtkFFxOVVoefyB4hCVK-PzlW7KJBSIk-vG_eGl8gzoszEUF9o4m1ZV7FCLi8xMFF2vc9FFhhNJMN-Yg4br5xB9kkTL2hpzrcFx0euPu1Z6ozfyY.j9WG9eSVNjJDOA6ud6LEEr7T4gzbBn151i9CCdP9FP0&dib_tag=se&keywords=universal%2Bjoint&qid=1746453918&sprefix=universal%2Bjoint%2Caps%2C530&sr=8-3&th=1">Purchase Link</a></td>
+    </tr>
+    <tr>
       <td colspan="3"><b>Total</b></td>
-      <td colspan="2"><b>1229.95</b></td>
+      <td colspan="2"><b>1241.91</b></td>
     </tr>
   </tbody>
 </table>
