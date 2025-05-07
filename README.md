@@ -116,3 +116,12 @@ All costs are listed in USD.
     </tr>
   </tbody>
 </table>
+
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/neck_1.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_2.png" alt="teaser_2" height="300"/>
+</div>
+
+<br>
