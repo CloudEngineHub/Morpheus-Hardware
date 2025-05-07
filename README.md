@@ -1,10 +1,11 @@
 <div align="center"><h2>Morpheus-Hardware</h2>
 Zongzheng Zhang<sup>1,2*</sup>, Jiawen Yang<sup>1*</sup>, Ziqiao Peng<sup>1</sup>,<br>
-Meng Yang<sup>4</sup>, Jianzhu Ma<sup>1</sup>, Lin Cheng<sup>5</sup>, Huazhe Xu<sup>3</sup>, Hang Zhao<sup>1,2</sup>, Hao Zhao<sup>3</sup><br>
+Meng Yang<sup>4</sup>, Jianzhu Ma<sup>1</sup>, Lin Cheng<sup>5</sup>, Huazhe Xu<sup>3</sup>, [Hang Zhao](https://hangzhaomit.github.io/)<sup>1,2</sup>, [Hao Zhao](https://sites.google.com/view/fromandto/)<sup>3</sup><br>
 <br>
-<sup>1</sup> _Institute for AI Industry Research (AIR), Tsinghua University_, <sup>2</sup> _Beijing Academy of Artificial Intelligence (BAAI)_,<br>
-<sup>3</sup> _Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University_, <sup>4</sup> _MGI Tech, Shenzhen, China_, <sup>5</sup> _Beihang University_<br>
+<sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University, <sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI),<br>
+<sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
 <sub>(* indicates equal contribution)</sub><br>
+<!-- > **RSS 2025** -->
 [arXiV](https://arxiv.org/abs/2502.17432)
 </div>
 
