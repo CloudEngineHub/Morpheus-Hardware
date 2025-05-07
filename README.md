@@ -1,6 +1,6 @@
 <div align="center"><h2>Morpheus-Hardware</h2>
 Zongzheng Zhang<sup>1,2*</sup>, Jiawen Yang<sup>1*</sup>, Ziqiao Peng<sup>1</sup>,<br>
-Meng Yang<sup>4</sup>, Jianzhu Ma<sup>1</sup>, Lin Cheng<sup>5</sup>, Huazhe Xu<sup>3</sup>, [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>1,2</sup>, [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>3</sup><br>
+Meng Yang<sup>4</sup>, Jianzhu Ma<sup>1</sup>, Lin Cheng<sup>5</sup>, [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup>, [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>1,2</sup>, [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>3</sup><br>
 <br>
 <sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University, <sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI),<br>
 <sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
@@ -14,12 +14,14 @@ Meng Yang<sup>4</sup>, Jianzhu Ma<sup>1</sup>, Lin Cheng<sup>5</sup>, Huazhe Xu<
 RSS 2025
 
 
-**Zongzheng Zhang**<sup>1,2*</sup> · **Xinrun Li**<sup>2*</sup> · **Sizhe Zou**<sup>1</sup> · **Guoxuan Chi**<sup>1</sup> · **Siqi Li**<sup>1</sup> <br>
-**Xuchong Qiu**<sup>2</sup> · **Guoliang Wang**<sup>1</sup> · **Guantian Zheng**<sup>1</sup> · **Leichen Wang**<sup>2</sup> · [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1</sup><br>
+**Zongzheng Zhang**<sup>1,2*</sup> · **Jiawen Yang**<sup>1*</sup> · **Ziqiao Peng**<sup>1</sup> ·<br>
+**Meng Yang**<sup>4</sup> · **Jianzhu Ma**<sup>1</sup>, **Lin Cheng**<sup>5</sup> · [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup> . [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1</sup><br>
 
 <sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University, <sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI),<br>
 <sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
 <sub>(* indicates equal contribution)</sub><br>
+[**arXiV**](https://arxiv.org/abs/2502.17432)
+</div>
 
 ## Catalog
 - [Bill of Materials](#bill-of-materials)
