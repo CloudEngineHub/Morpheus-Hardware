@@ -7,7 +7,8 @@ RSS 2025
 **Meng Yang**<sup>4</sup> · **Jianzhu Ma**<sup>1</sup>, **Lin Cheng**<sup>5</sup> · [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup> . [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1</sup><br>
 
 <sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University, <sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI),<br>
-<sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
+<sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <br>
+<sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
 <sub>(* indicates equal contribution)</sub><br>
 [**arXiV**](https://arxiv.org/abs/2502.17432)
 </div>
@@ -101,195 +102,168 @@ All costs are listed in USD.
       <td>11.99</td>
       <td><a href="https://www.amazon.com/Befenybay-Universal-Joint-Coupling-Screws/dp/B07V9NTQLH/ref=sr_1_3?crid=1NG4AYO30X8CT&dib=eyJ2IjoiMSJ9.pRH26F92Lz3OeVdv1pTKc72IUOBnlLi4y21j7uUs7LypfLJ90N8WLf1Pr33N9hjNsJ1W_2myh17gl-EuCV0swDw-iJiFZEv0W5Bxj6aqzEum0yF1xVbMhsa3Z7IaUtkFFxOVVoefyB4hCVK-PzlW7KJBSIk-vG_eGl8gzoszEUF9o4m1ZV7FCLi8xMFF2vc9FFhhNJMN-Yg4br5xB9kkTL2hpzrcFx0euPu1Z6ozfyY.j9WG9eSVNjJDOA6ud6LEEr7T4gzbBn151i9CCdP9FP0&dib_tag=se&keywords=universal%2Bjoint&qid=1746453918&sprefix=universal%2Bjoint%2Caps%2C530&sr=8-3&th=1">Purchase Link</a></td>
     </tr>
+    </tr>
+    <tr>
+      <td>CanaKit Raspberry Pi 5 Starter Kit PRO - Turbine Black (128GB Edition) (8GB RAM)</td>
+      <td>1</td>
+      <td>159.99</td>
+      <td>159.99</td>
+      <td><a href="https://www.amazon.com/CanaKit-Raspberry-Starter-Kit-PRO/dp/B0CRSNCJ6Y/ref=sr_1_1?dib=eyJ2IjoiMSJ9.jcr0uFX19Ti6vPMuNfXSxuom6fh6jvUMt7rRFszG8OdJB1LHo1ODQ7CAiY1I_y6YeZaZHmsy7T4M5z4SXgmhqwWn5cDkcCfzLgZ4xUnrgd4TO46VwbRwKqCOQ-KQzW3ufLRwgDWO4iT1k_NZcFOsNtwjXyRIcVJKgPn0DyAYUUNwefbayiV8Ak6qmwg8rkxxZN0Fe5xiKFNsUKUjPLuaCuZas-qt84gYpYO3Pm9g_kE.oT2WEk3zMAoRVuCWt9_205RuwKwwBTFkY90uJTxfCOo&dib_tag=se&keywords=Raspberry%2BPi%2B6&qid=1746793704&sr=8-1&th=1">Purchase Link</a></td>
+    </tr>
     <tr>
       <td colspan="3"><b>Total</b></td>
-      <td colspan="2"><b>1241.91</b></td>
+      <td colspan="2"><b>1401.9</b></td>
     </tr>
   </tbody>
 </table>
 
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_1.jpg" alt="teaser_1" height="600"/>
-</div>
+## Building Instructions
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_2.jpg" alt="teaser_1" height="600"/>
-</div>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_3.jpg" alt="teaser_1" height="600"/>
-</div>
+### Neck module
+The **neck_Installation_of_sheet_metal** is installed on the **neck_y_axis_platform** using 4 pairs of screws.
+<img src="media/neck_1.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_4.jpg" alt="teaser_1" height="600"/>
-</div>
+Two **ks3518** servo motors are installed on the **neck_Installation_of_sheet_metal** on both sides.
+<img src="media/neck_2.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_5.jpg" alt="teaser_1" height="600"/>
-</div>
+The **neck_extension_arm** is installed on each **ks3518** servo motor to deliver power.
+<img src="media/neck_3.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_6.jpg" alt="teaser_1" height="600"/>
-</div>
+The **neck_principal_axis** is a section of plain shaft which stands on the **neck_Installation_of_sheet_metal**.
+<img src="media/neck_4.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_7.jpg" alt="teaser_1" height="600"/>
-</div>
+Two **neck_Axis_positioning_tools** are deployed to fix the **neck_principal_axis**.
+<img src="media/neck_5.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_8.jpg" alt="teaser_1" height="600"/>
-</div>
+The universal joint is assembled on the upper end of the shaft.
+<img src="media/neck_6.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_9.jpg" alt="teaser_1" height="600"/>
-</div>
+The **neck_Parallel_platforms** is attached with the universal joint with the **neck_Upper_shaft**. 
+<img src="media/neck_7.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_1.jpg" alt="teaser_1" height="600"/>
-</div>
+Two rod linkages connect the **neck_Parallel_platforms** and the **neck_extension_arm**s.
+<img src="media/neck_8.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_2.jpg" alt="teaser_1" height="600"/>
-</div>
+The neck module is completed.
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_3.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/neck_9.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_4.jpg" alt="teaser_1" height="600"/>
-</div>
+### Eye module
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_5.jpg" alt="teaser_1" height="600"/>
-</div>
+A Guohua servo motor is installed in the middle of the eye_mounted_version to control the eyeballs to look vertically. In addition, every servo motor matches a default crank. Therefore, in the following context, servo motor indicates a servo motor and a matching crank if not specified.
+<img src="media/eye_1.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_6.jpg" alt="teaser_1" height="600"/>
-</div>
+Another Guohua servo motor is install on the eye_bassinet, which is then intalled between the eyeballs on the eye_mounted_version.
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_7.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_2.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_8.jpg" alt="teaser_1" height="600"/>
-</div>
+A part called eye_comb figuratively is fixed on the eye_bassinet.
+<img src="media/eye_3.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_9.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_4.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_10.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_5.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_11.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_6.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_1.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_7.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_2.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_8.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_3.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_9.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_4.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_10.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_5.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/eye_11.jpg" alt="teaser_1" height="600"/>
+### Eyebrow module
+<img src="media/brow_1.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_6.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/brow_2.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_1.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/brow_3.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_2.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/brow_4.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_3.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/brow_5.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_4.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/brow_6.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_5.jpg" alt="teaser_1" height="600"/>
-</div>
+### Mouth module
+<img src="media/mouth_1.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_6.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_2.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_7.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_3.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_8.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_4.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_9.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_5.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_10.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_6.jpg" alt="teaser_1" height="600"/>
 
-<h1> </h1>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/assembly_11.jpg" alt="teaser_1" height="600"/>
-</div>
+<img src="media/mouth_7.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_8.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_9.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_10.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_11.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_12.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_13.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_14.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_15.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_16.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_17.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_18.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_19.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_20.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_21.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_22.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_23.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_24.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_25.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_26.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/mouth_27.jpg" alt="teaser_1" height="600"/>
+
+### Modules' assembly
+<img src="media/assembly_1.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_2.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_3.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_4.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_5.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_6.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_7.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_8.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_9.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_10.jpg" alt="teaser_1" height="600"/>
+
+<img src="media/assembly_11.jpg" alt="teaser_1" height="600"/>
