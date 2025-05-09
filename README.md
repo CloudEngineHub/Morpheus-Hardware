@@ -4,7 +4,7 @@ RSS 2025
 
 
 **Zongzheng Zhang**<sup>1,2*</sup> · **Jiawen Yang**<sup>1*</sup> · **Ziqiao Peng**<sup>1</sup> ·<br>
-**Meng Yang**<sup>4</sup> · **Jianzhu Ma**<sup>1</sup>, **Lin Cheng**<sup>5</sup> · [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup> . [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1</sup><br>
+**Meng Yang**<sup>4</sup> · [**Jianzhu Ma**](https://majianzhu.com/)<sup>1</sup>, **Lin Cheng**<sup>5</sup> · [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup> . [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1</sup><br>
 
 <sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University, <sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI),<br>
 <sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <br>
