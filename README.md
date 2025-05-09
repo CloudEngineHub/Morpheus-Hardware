@@ -122,7 +122,7 @@ All costs are listed in USD.
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_1.jpg" alt="teaser_1" height="300"/>
+  <img src="media/neck_1.jpg" alt="teaser_1" height="600"/>
 </div>
 
 <h1> </h1>
