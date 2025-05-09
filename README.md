@@ -122,131 +122,131 @@ All costs are listed in USD.
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_1.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_1.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_2.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_2.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_3.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_3.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_4.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_4.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_5.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_5.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_6.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_6.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_7.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_7.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_8.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_8.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/neck_9.png" alt="teaser_1" height="300"/>
+  <img src="media/neck_9.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_1.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_1.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_2.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_2.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_3.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_3.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_4.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_4.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_5.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_5.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_6.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_6.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_7.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_7.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_8.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_8.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_9.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_9.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_10.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_10.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/eye_11.png" alt="teaser_1" height="300"/>
+  <img src="media/eye_11.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_1.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_1.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_2.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_2.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_3.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_3.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_4.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_4.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_5.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_5.jpg" alt="teaser_1" height="300"/>
 </div>
 
 <h1> </h1>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="media/brow_6.png" alt="teaser_1" height="300"/>
+  <img src="media/brow_6.jpg" alt="teaser_1" height="300"/>
 </div>
 
