@@ -1,4 +1,3 @@
-
 <div align="center">
 <h2>Morpheus-Hardware Design</h2>
 RSS 2025
@@ -240,3 +239,57 @@ All costs are listed in USD.
   <img src="media/brow_6.jpg" alt="teaser_1" height="600"/>
 </div>
 
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_1.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_2.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_3.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_4.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_5.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_6.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_7.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_8.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_9.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_10.jpg" alt="teaser_1" height="600"/>
+</div>
+
+<h1> </h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="media/assembly_11.jpg" alt="teaser_1" height="600"/>
+</div>
