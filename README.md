@@ -243,32 +243,57 @@ Three servo motors are then installed on the mouth_baseplate to control the uppe
 
 <img src="media/mouth_3.jpg" alt="teaser_1" height="600"/>
 
-At the front 
+At the front of the mouth_baseplate, there are two mounting structures，which is used to install the three of the six rods of the six-bar mechanism used to control the lips.
+
 <img src="media/mouth_4.jpg" alt="teaser_1" height="600"/>
+
+An addtional mounting part is installed in the middle.
 
 <img src="media/mouth_5.jpg" alt="teaser_1" height="600"/>
 
+This part has the same funciton as the mounting structure.
+
 <img src="media/mouth_6.jpg" alt="teaser_1" height="600"/>
+
+Then, three adaptively deformed iron wires are used to connect the crank to the rods.
 
 <img src="media/mouth_7.jpg" alt="teaser_1" height="600"/>
 
+One servo motor is installed from the bottom up, with a gear between the motor and the crank.
+
 <img src="media/mouth_8.jpg" alt="teaser_1" height="600"/>
+
+For the mouth_slide_rail_mounting_plate, a MGR7 slider rail is installed on it.
 
 <img src="media/mouth_9.jpg" alt="teaser_1" height="600"/>
 
+Two servo motors are installed on the side to control the motion of the jaw opening and closing.
+
 <img src="media/mouth_10.jpg" alt="teaser_1" height="600"/>
+
+The matching slider is installed on the bottom of mouth_motor_mounting_platform_for_smiling_six-bar_mechanisms
 
 <img src="media/mouth_11.jpg" alt="teaser_1" height="600"/>
 
 <img src="media/mouth_12.jpg" alt="teaser_1" height="600"/>
 
+Two servo motors are installed next to the aforemetioned motor.
+
 <img src="media/mouth_13.jpg" alt="teaser_1" height="600"/>
+
+The mouth_tongue_connecting_rod_long and mouth_perforated crank with their matching motor and crank form a four-bar mechanism. The mouth_tongue_connecting_rod and mouth_tongue_pulling_rod with their matching motor and crank form another four-bar mechanism. Two four-bar mechanisms are connected in parallel.
 
 <img src="media/mouth_14.jpg" alt="teaser_1" height="600"/>
 
+On the mouth_baseplate_for_teeth are the three servo motors controlling the lower lip.
+
 <img src="media/mouth_15.jpg" alt="teaser_1" height="600"/>
 
+The mechanism at the front is the same as that of the upper lip.
+
 <img src="media/mouth_16.jpg" alt="teaser_1" height="600"/>
+
+Two mouth_oblique_crank_extension_rods are fixed on the cranks on both sides. At the end of that extension rods are the mouth_threaded_pin used to install mouth_metal_ball_of_spherical_hinges.
 
 <img src="media/mouth_17.jpg" alt="teaser_1" height="600"/>
 
