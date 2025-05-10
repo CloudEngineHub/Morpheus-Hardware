@@ -232,6 +232,7 @@ Another rod along with the crank of the servo motor installed at the bottom form
 <img src="media/brow_5.jpg" alt="teaser_1" height="600"/>
 
 The eyebrow module is complete.
+
 <img src="media/brow_6.jpg" alt="teaser_1" height="600"/>
 
 ### Mouth module
