@@ -297,17 +297,31 @@ Two mouth_oblique_crank_extension_rods are fixed on the cranks on both sides. At
 
 <img src="media/mouth_17.jpg" alt="teaser_1" height="600"/>
 
+Different from the upper lip, another mouth_threaded_pin with ball of spherical hinge is install on the mouth_six-bar_mechanism_with_spherical_hinge.
+
 <img src="media/mouth_18.jpg" alt="teaser_1" height="600"/>
+
+One rod with ball hinge on both sides connects the mouth_six-bar_mechanism_with_spherical_hinge and the extended rod.
 
 <img src="media/mouth_19.jpg" alt="teaser_1" height="600"/>
 
+The mouth_baseplate_for_teeth is fixed on the jaw.
+
 <img src="media/mouth_20.jpg" alt="teaser_1" height="600"/>
+
+The lower teeth is then installed on the jaw.
 
 <img src="media/mouth_21.jpg" alt="teaser_1" height="600"/>
 
+The upper teeth is installed on the bottom of the mouth_baseplate.
+
 <img src="media/mouth_22.jpg" alt="teaser_1" height="600"/>
 
+The mouth_shaft_flange is placed on the half-hole of the mouth_baseplate. The cap is installed on the half-hole to locate the shaft. A crank of 45mm is connected with the motor on the mouth_slide_rail_mounting_plate, and the other end connected with jaw. A long rod connects the mouth_shaft_flange and jaw, forming a five-bar mechanism.
+
 <img src="media/mouth_23.jpg" alt="teaser_1" height="600"/>
+
+
 
 <img src="media/mouth_24.jpg" alt="teaser_1" height="600"/>
 
