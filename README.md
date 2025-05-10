@@ -317,39 +317,62 @@ The upper teeth is installed on the bottom of the mouth_baseplate.
 
 <img src="media/mouth_22.jpg" alt="teaser_1" height="600"/>
 
-The mouth_shaft_flange is placed on the half-hole of the mouth_baseplate. The cap is installed on the half-hole to locate the shaft. A crank of 45mm is connected with the motor on the mouth_slide_rail_mounting_plate, and the other end connected with jaw. A long rod connects the mouth_shaft_flange and jaw, forming a five-bar mechanism.
+The mouth_shaft_flange is placed on the half-hole of the mouth_baseplate. The cap is installed on the half-hole to locate the shaft. A crank of 32mm is connected with the motor on the mouth_slide_rail_mounting_plate, and the other end connected with jaw. A long rod connects the mouth_shaft_flange and jaw, forming a five-bar mechanism.
 
 <img src="media/mouth_23.jpg" alt="teaser_1" height="600"/>
 
-
+On the other side of the jaw, a large servo motor ks3518 is installed on the mouth_baseplate, whose matching crank is 38mm long.
 
 <img src="media/mouth_24.jpg" alt="teaser_1" height="600"/>
 
+A rod connects the longer crank and the jaw. 
+
 <img src="media/mouth_25.jpg" alt="teaser_1" height="600"/>
 
+To give more freedom around the control points on the lip, spherical hinges are used.
+
 <img src="media/mouth_26.jpg" alt="teaser_1" height="600"/>
+
+The mouth module is complete.
 
 <img src="media/mouth_27.jpg" alt="teaser_1" height="600"/>
 
 ### Modules' assembly
+
+A neck_transition_part is used to connect the neck module and the mouth module.
+
 <img src="media/assembly_1.jpg" alt="teaser_1" height="600"/>
+
+Four studs of 60mm are used as the connector.
 
 <img src="media/assembly_2.jpg" alt="teaser_1" height="600"/>
 
 <img src="media/assembly_3.jpg" alt="teaser_1" height="600"/>
 
+Four studs of 30mm are used as the connector between the mouth module and the eye module.
+
 <img src="media/assembly_4.jpg" alt="teaser_1" height="600"/>
 
 <img src="media/assembly_5.jpg" alt="teaser_1" height="600"/>
+
+Three studs of 60mm are used as the connector between the eye module and the eyebrow module.
 
 <img src="media/assembly_6.jpg" alt="teaser_1" height="600"/>
 
 <img src="media/assembly_7.jpg" alt="teaser_1" height="600"/>
 
+Shell_Face_Bones are used to connect the eye module and facial mask.
+
 <img src="media/assembly_8.jpg" alt="teaser_1" height="600"/>
+
+The ears are connected with the facial mask. The back of the head is located by two ears. 
 
 <img src="media/assembly_9.jpg" alt="teaser_1" height="600"/>
 
+The skull is then mounted on the back of the head.
+
 <img src="media/assembly_10.jpg" alt="teaser_1" height="600"/>
+
+The lines go through the holes designed on the eye and eyebrow module.
 
 <img src="media/assembly_11.jpg" alt="teaser_1" height="600"/>
