@@ -35,7 +35,7 @@ trajectory.pkl
     ├── "topic_name_1" : list[timestamps]
     ├── "topic_name_2" : list[timestamps]
     └── ...
-
+```
 
 ## Bill of Materials
 All costs are listed in USD.
