@@ -123,27 +123,35 @@ All costs are listed in USD.
 
 ### Neck module
 The **neck_Installation_of_sheet_metal** is installed on the **neck_y_axis_platform** using 4 pairs of screws.
+
 <img src="media/neck_1.jpg" alt="teaser_1" height="600"/>
 
 Two **ks3518** servo motors are installed on the **neck_Installation_of_sheet_metal** on both sides.
+
 <img src="media/neck_2.jpg" alt="teaser_1" height="600"/>
 
 The **neck_extension_arm** is installed on each **ks3518** servo motor to deliver power.
+
 <img src="media/neck_3.jpg" alt="teaser_1" height="600"/>
 
 The **neck_principal_axis** is a section of plain shaft which stands on the **neck_Installation_of_sheet_metal**.
+
 <img src="media/neck_4.jpg" alt="teaser_1" height="600"/>
 
 Two **neck_Axis_positioning_tools** are deployed to fix the **neck_principal_axis**.
+
 <img src="media/neck_5.jpg" alt="teaser_1" height="600"/>
 
 The universal joint is assembled on the upper end of the shaft.
+
 <img src="media/neck_6.jpg" alt="teaser_1" height="600"/>
 
 The **neck_Parallel_platforms** is attached with the universal joint with the **neck_Upper_shaft**. 
+
 <img src="media/neck_7.jpg" alt="teaser_1" height="600"/>
 
 Two rod linkages connect the **neck_Parallel_platforms** and the **neck_extension_arm**s.
+
 <img src="media/neck_8.jpg" alt="teaser_1" height="600"/>
 
 The neck module is completed.
@@ -153,50 +161,89 @@ The neck module is completed.
 ### Eye module
 
 A Guohua servo motor is installed in the middle of the eye_mounted_version to control the eyeballs to look vertically. In addition, every servo motor matches a default crank. Therefore, in the following context, servo motor indicates a servo motor and a matching crank if not specified.
+
 <img src="media/eye_1.jpg" alt="teaser_1" height="600"/>
 
 Another Guohua servo motor is install on the eye_bassinet, which is then intalled between the eyeballs on the eye_mounted_version.
 
 <img src="media/eye_2.jpg" alt="teaser_1" height="600"/>
 
-A part called eye_comb figuratively is fixed on the eye_bassinet.
+A part called eye_comb figuratively is fixed on the eye_bassinet. An M-shaped part: eye_m_shaped_board is fixed on the crank of the servo. Two Y-shaped parts: eye_y_connector connect the two parts mentioned above, forming two identical four-bar mechanisms.
+
 <img src="media/eye_3.jpg" alt="teaser_1" height="600"/>
+
+The eye_Eyeball_mounts are fixed on the eye_y_connector. The micro cameras are fixed on them.
 
 <img src="media/eye_4.jpg" alt="teaser_1" height="600"/>
 
+The shell of the eyeballs is mounted on the eye_Eyeball_mounts.
+
 <img src="media/eye_5.jpg" alt="teaser_1" height="600"/>
+
+A L-shaped crank connects the crank of the servo motor and the eye_bassinet, forming a new four-bar mechanism.
 
 <img src="media/eye_6.jpg" alt="teaser_1" height="600"/>
 
+The four eyelids are then assenmbled around the eyeball.
+
 <img src="media/eye_7.jpg" alt="teaser_1" height="600"/>
+
+Four servo motors controlling the eyelids are mounted on the eye_mounted_version.
 
 <img src="media/eye_8.jpg" alt="teaser_1" height="600"/>
 
+The eye_upper_eyelid_of_the_right_eye and eye_upper_eyelid_of_the_left_eye are driven by two rod linkages.
+
 <img src="media/eye_9.jpg" alt="teaser_1" height="600"/>
+
+Ditto for the lower eyelids.
 
 <img src="media/eye_10.jpg" alt="teaser_1" height="600"/>
 
+The eye module is completed.
+
 <img src="media/eye_11.jpg" alt="teaser_1" height="600"/>
+
 ### Eyebrow module
+
+The two eye_brow_center_motor_mounting_brackets are mirror-symmetric which servo motors, eyebrow_brow_center_pendelums, and eyebrow_short_brow_joysticks are install on. The crank of the servo motor, the eyebrow_short_brow_joysticks (rod), and eyebrow_brow_center_pendelums (rocker) constitutes a four-bar mechanism.
+
 <img src="media/brow_1.jpg" alt="teaser_1" height="600"/>
+
+The two eye_brow_center_motor_mounting_brackets are installed on the eyebrow_Installation_platform.
 
 <img src="media/brow_2.jpg" alt="teaser_1" height="600"/>
 
+Six servo motors are installed on the back of the eyebrow_Installation_platform staggeredly.
+
 <img src="media/brow_3.jpg" alt="teaser_1" height="600"/>
+
+The eyebrow_eyebrow_peak_rockers are installed on the side.
 
 <img src="media/brow_4.jpg" alt="teaser_1" height="600"/>
 
+Another rod along with the crank of the servo motor installed at the bottom forms another four-bar mechanism.
+
 <img src="media/brow_5.jpg" alt="teaser_1" height="600"/>
 
+The eyebrow module is complete.
 <img src="media/brow_6.jpg" alt="teaser_1" height="600"/>
 
 ### Mouth module
+
+Two mouth_motor_mounting_platform_for_smiling_six-bar_mechanisms are installed on the mouth_baseplate.
+
 <img src="media/mouth_1.jpg" alt="teaser_1" height="600"/>
+
+Two rods and two servo motors form the five-bar mechanism. And the latter are installed on the mouth_motor_mounting_platform_for_smiling_six-bar_mechanisms.
 
 <img src="media/mouth_2.jpg" alt="teaser_1" height="600"/>
 
+Three servo motors are then installed on the mouth_baseplate to control the upper lips.
+
 <img src="media/mouth_3.jpg" alt="teaser_1" height="600"/>
 
+At the front 
 <img src="media/mouth_4.jpg" alt="teaser_1" height="600"/>
 
 <img src="media/mouth_5.jpg" alt="teaser_1" height="600"/>
