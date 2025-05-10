@@ -1,8 +1,10 @@
 <div align="center">
-<h2>Morpheus-Hardware Design</h2>
+<h2>Morpheus: A Neural-driven Animatronic Face with  Hybrid Actuation and Diverse Emotion Control</h2>
+<h2>Hardware Design</h2>
 RSS 2025
 
-
+<img src="media/teaser.jpg" alt="teaser_1" height="600"/>
+<img src="media/mechanism.jpg" alt="teaser_1" height="600"/>
 **Zongzheng Zhang**<sup>1,2*</sup> · **Jiawen Yang**<sup>1*</sup> · [**Ziqiao Peng**](https://ziqiaopeng.github.io/)<sup>1</sup> ·<br>
 **Meng Yang**<sup>4</sup> · [**Jianzhu Ma**](https://majianzhu.com/)<sup>1</sup>, **Lin Cheng**<sup>5</sup> · [**Huazhe Xu**](http://hxu.rocks/)<sup>3</sup> . [**Hang Zhao**](https://hangzhaomit.github.io/)<sup>3</sup> and [**Hao Zhao**](https://sites.google.com/view/fromandto/)<sup>1,2</sup><br>
 
