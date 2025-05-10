@@ -26,15 +26,135 @@ RSS 2025<br>
 
 
 ```plaintext
-trajectory.pkl
-├── "data" : dict
-│   ├── "topic_name_1" : list[data_points]
-│   ├── "topic_name_2" : list[data_points]
-│   └── ...
-└── "timestamps" : dict
-    ├── "topic_name_1" : list[timestamps]
-    ├── "topic_name_2" : list[timestamps]
-    └── ...
+CAD_model
+├── full_assembly.SLDASM
+├── cheek_face_slave_part_mirror.SLDPRT
+├── cheek_facial_slave_part_mirror.SLDPRT
+├── cheek_line.SLDPRT
+├── ks3518.SLDPRT
+├── L.SLDPRT
+├── nose_line.SLDPRT
+├── nose_mirror_line.SLDPRT
+├── nose_mirror_slave_part.SLDPRT
+├── nose_slave_part.SLDPRT
+├── OT.SLDPRT
+├── OT_mirror.SLDPRT
+├── Raspberry_Pi_(computer_science).SLDPRT
+├── shell_back_of_the_head.SLDPRT
+├── shell_carapace.SLDPRT
+├── shell_Face_Bone_Connectors.SLDPRT
+├── shell_Face_Bone_Connectors_mirror.SLDPRT
+├── shell_facial_bones.SLDPRT
+├── shell_left_ears.SLDPRT
+├── shell_right_ears.SLDPRT
+├── shell_skin_face.SLDPRT
+├── studs.SLDPRT
+├── studs_60.SLDPRT
+├── "eye"
+│   ├── eye.SLDASM
+│   ├── eye_Balls_for_head_pulls.SLDPRT
+│   ├── eye_bassinet.SLDPRT
+│   ├── eye_comb.SLDPRT
+│   ├── eye_crank_handle.SLDPRT
+│   ├── eye_Eyeball_mounts.SLDPRT
+│   └── eye_Eyelid_mounting_stubs.SLDPRT
+│   ├── eye_lower_eyelid_of_the_right_eye.SLDPRT
+│   ├── eye_lower_eyelid_of_the_right_eye_mirror.SLDPRT
+│   ├── eye_m_shaped_board.SLDPRT
+│   ├── eye_mounted_version.SLDPRT
+│   ├── eye_pupil.SLDPRT
+│   ├── eye_Shanks_for_Ball_Tie_Rods.SLDPRT
+│   ├── eye_upper_eyelid_of_the_right_eye.SLDPRT
+│   ├── eye_upper_eyelid_of_the_right_eye_mirror.SLDPRT
+│   ├── eye_y_connector.SLDPRT
+├── "eyebrow"
+│   ├── EYEBROW.SLDASM
+│   ├── eyebrow_brow center motor mounting bracket.SLDPRT
+│   ├── eyebrow_brow center pendulum.SLDPRT
+│   ├── eyebrow_connected model aircraft regulator.SLDPRT
+│   ├── eyebrow_crank v4.SLDPRT
+│   ├── eyebrow_eyebrow peak rocker 1.SLDPRT
+│   ├── eyebrow_eyebrow peak rocker.SLDPRT
+│   ├── eyebrow_GUOHUAA0090.SLDPRT
+│   ├── eyebrow_Installation platform.SLDPRT
+│   ├── eyebrow_mirror brow center motor mounting bracket.SLDPRT
+│   ├── eyebrow_mirror brow center pendulum.SLDPRT
+│   ├── eyebrow_mirror eyebrow peak rocker 1.SLDPRT
+│   ├── eyebrow_short brow joystick.SLDPRT
+├── "mouth"
+│   ├── mouth assembly.SLDASM
+│   ├── mouth_aluminum rocker arm.SLDPRT
+│   ├── mouth_ball of spherical hinge.SLDPRT
+│   ├── mouth_baseplate for teeth.SLDPRT
+│   ├── mouth_baseplate.SLDPRT
+│   ├── mouth_bearing cap.SLDPRT
+│   ├── mouth_connector for OT head.SLDPRT
+│   ├── mouth_connector for OT head_4mm medium.SLDPRT
+│   ├── mouth_connector for OT head_4mmlong.SLDPRT
+│   ├── mouth_convex iron wire.SLDPRT
+│   ├── mouth_crank.SLDPRT
+│   ├── mouth_fourth-generation jaw.SLDPRT
+│   ├── mouth_gear.SLDPRT
+│   ├── mouth_GUOHUAA0090.SLDPRT
+│   ├── mouth_iron wire 30mm.SLDPRT
+│   ├── mouth_iron wire_below middle.SLDPRT
+│   ├── mouth_iron wire_freedom20mm.SLDPRT
+│   ├── mouth_iron wire_freedom30mm.SLDPRT
+│   ├── mouth_iron wire_upper middle.SLDPRT
+│   ├── mouth_jaw five-bar mechanism_long.SLDPRT
+│   ├── mouth_jaw five-bar mechanism_short.SLDPRT
+│   ├── mouth_ks3518.SLDPRT
+│   ├── mouth_lip connecting rod.SLDPRT
+│   ├── mouth_lip six-bar mechanism_4mm crossbar.SLDPRT
+│   ├── mouth_lip six-bar mechanism_8mm crossbar.SLDPRT
+│   ├── mouth_lower teeth.SLDPRT
+│   ├── mouth_metal ball of spherical hinge.SLDPRT
+│   ├── mouth_MG90S.SLDPRT
+│   ├── mouth_MGN7C_slider.SLDPRT
+│   ├── mouth_MGR7_slider rail.SLDPRT
+│   ├── mouth_mirror_motor mounting platform for smiling six-bar mechanism.SLDPRT
+│   ├── mouth_mirror_oblique crank extension rod.SLDPRT
+│   ├── mouth_mirror_smiling five-bar mechanism_below.SLDPRT
+│   ├── mouth_motor mounting platform for smiling six-bar mechanism.SLDPRT
+│   ├── mouth_mounting platform for upper lip connecting rod.SLDPRT
+│   ├── mouth_oblique crank extension rod.SLDPRT
+│   ├── mouth_OT head.SLDPRT
+│   ├── mouth_perforated crank.SLDPRT
+│   ├── mouth_rack.SLDPRT
+│   ├── mouth_self-made ball hinge rod for the lower teeth.SLDPRT
+│   ├── mouth_shaft flange.SLDPRT
+│   ├── mouth_six-bar mechanism_above_short.SLDPRT
+│   ├── mouth_six-bar mechanism_below_short.SLDPRT
+│   ├── mouth_six-bar mechanism_with spherical hinge.SLDPRT
+│   ├── mouth_slide rail mounting plate.SLDPRT
+│   ├── mouth_smiling five-bar mechanism_above.SLDPRT
+│   ├── mouth_smiling five-bar mechanism_below.SLDPRT
+│   ├── mouth_smiling six-bar mechanism_above.SLDPRT
+│   ├── mouth_smiling six-bar mechanism_below.SLDPRT
+│   ├── mouth_spherical hinge.SLDPRT
+│   ├── mouth_threaded pin.SLDPRT
+│   ├── mouth_threaded rod of spherical hinge.SLDPRT
+│   ├── mouth_tongue connecting rod.SLDPRT
+│   ├── mouth_tongue connecting rod_long.SLDPRT
+│   ├── mouth_tongue pulling rod.SLDPRT
+│   ├── mouth_tongue tray.SLDPRT
+│   ├── mouth_upper lip connection point.SLDPRT
+│   ├── mouth_upper teeth.SLDPRT
+└── "neck"
+    ├── neck.SLDASM
+    ├── neck_Axis_positioning_tools.SLDPRT
+    ├── neck_ball.SLDPRT
+    ├── neck_ball_hinge.SLDPRT
+    ├── neck_crosshairs.SLDPRT
+    ├── neck_extension_arm.SLDPRT
+    ├── neck_Installation_of_sheet_metal.SLDPRT
+    ├── neck_Parallel_platforms.SLDPRT
+    ├── neck_pole.SLDPRT
+    ├── neck_principal_axis.SLDPRT
+    ├── neck_transition_part.SLDPRT
+    ├── neck_universal_joint.SLDPRT
+    ├── neck_Upper_shaft.SLDPRT
+    └── neck_y_axis_platform.SLDPRT
 ```
 
 ## Bill of Materials
