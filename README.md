@@ -515,3 +515,23 @@ The skull is then mounted on the back of the head.
 The lines go through the holes designed on the eye and eyebrow module.
 
 <img src="media/assembly_11.jpg" alt="teaser_1" height="600"/>
+
+## License and Acknowledgements
+This source code is licensed under the Apache 2.0 liscence found in the LICENSE file in the root directory of this repository.
+
+Special thanks to the [GELLO](https://wuphilipp.github.io/gello_site/) project for serving as a source of inspiration for this work.
+
+
+## Citation
+If you find this project useful, feel free to cite our work!
+<div style="display:flex;">
+<div>
+
+```bibtex
+@article{factr,
+  title={Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control},
+  author={Zongzheng Zhang, Jiawen Yang, Ziqiao Peng, Meng Yang, Jianzhu Ma, Lin Cheng, Huazhe Xu, Hang Zhao, Hao Zhao},
+  journal={RSS},
+  year={2025}
+}
+```
