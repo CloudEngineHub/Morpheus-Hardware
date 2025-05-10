@@ -14,7 +14,7 @@ RSS 2025<br>
 [**RSS official**](https://roboticsconference.org/program/papers/80/)
 </div>
 <div align="center">
-  <img src="media/teaser.png" alt="teaser_1" height="600"/>
+  <img src="media/teaser.png" alt="teaser_1" height="500"/>
   <img src="media/mechanism.png" alt="teaser_1" height="500"/>
 </div>
 
