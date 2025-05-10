@@ -24,6 +24,19 @@ RSS 2025<br>
 - [License and Acknowledgements](#license-and-acknowledgements)
 - [Citation](#citation)
 
+
+```plaintext
+trajectory.pkl
+├── "data" : dict
+│   ├── "topic_name_1" : list[data_points]
+│   ├── "topic_name_2" : list[data_points]
+│   └── ...
+└── "timestamps" : dict
+    ├── "topic_name_1" : list[timestamps]
+    ├── "topic_name_2" : list[timestamps]
+    └── ...
+
+
 ## Bill of Materials
 All costs are listed in USD.
 <table>
