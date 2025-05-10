@@ -15,7 +15,7 @@ RSS 2025<br>
 </div>
 <div align="center">
   <img src="media/teaser.png" alt="teaser_1" height="500"/>
-  <img src="media/mechanism.png" alt="teaser_1" height="500"/>
+  <img src="media/mechanism.png" alt="teaser_1" height="450"/>
 </div>
 
 ## Catalog
