@@ -79,7 +79,7 @@ All costs are listed in USD.
       <td>20</td>
       <td>9.66</td>
       <td>193.2</td>
-      <td<a href="https://www.amazon.com/YUYUDEHM-Chicago-Assorted-Leather-Bookbinding/dp/B0DGQ5NVW1/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ZDvYCDAXBtBG62ejiAiW4CSjnaCi47Efiv74bibLvAGWfklFwSQQNO1lJrHdHRzRFVCNKgixY3H6o-thvzC2QJCjAChTnKG0-2ZyknDj5FJI-i8tc-juCEpiSnFkbStU4_J-bnksKkSAzQgXSI8CS-W3l_0b48PjTAFTPAfXXpCjPTaxpyG0QFpXXRXQosJ2IWdm5BBuPTt-tiAtHnSfZvuucMJWnI3xHyOHhvsyY0ohFOICZ06IaDj2D4QQUZ2KWgT36kE0EwS4BMqYirFLt3U2-Va3jOT5o7Dmg0BVtsE.IxfmGw4SWixguE2wyZIVGLhj1tulG1hFzF81ZhWF4_0&dib_tag=se&keywords=Screws%2BM3&qid=1746944275&s=industrial&sr=1-9&th=1">Purchase Link</a></td>
+      <td><a href="https://www.amazon.com/YUYUDEHM-Chicago-Assorted-Leather-Bookbinding/dp/B0DGQ5NVW1/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ZDvYCDAXBtBG62ejiAiW4CSjnaCi47Efiv74bibLvAGWfklFwSQQNO1lJrHdHRzRFVCNKgixY3H6o-thvzC2QJCjAChTnKG0-2ZyknDj5FJI-i8tc-juCEpiSnFkbStU4_J-bnksKkSAzQgXSI8CS-W3l_0b48PjTAFTPAfXXpCjPTaxpyG0QFpXXRXQosJ2IWdm5BBuPTt-tiAtHnSfZvuucMJWnI3xHyOHhvsyY0ohFOICZ06IaDj2D4QQUZ2KWgT36kE0EwS4BMqYirFLt3U2-Va3jOT5o7Dmg0BVtsE.IxfmGw4SWixguE2wyZIVGLhj1tulG1hFzF81ZhWF4_0&dib_tag=se&keywords=Screws%2BM3&qid=1746944275&s=industrial&sr=1-9&th=1">Purchase Link</a></td>
     <tr>
       <td>12Pack Vgoohobby Metal M3 Tie Rod End Ball Holder RC Joint Link Ball Head Holder CW Compatible with HSP Traxxas HPI Axial Redcat Racing 1/10 RC Car Truck Buggy Crawler</td>
       <td>6</td>
