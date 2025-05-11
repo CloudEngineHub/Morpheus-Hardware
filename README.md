@@ -75,6 +75,12 @@ All costs are listed in USD.
       <td><a href="https://www.amazon.com/11-8Inch-Connector-Stainless-Airplane-Helicopter/dp/B0BGQZK6HK/ref=sr_1_23?crid=QHSI5URBI5JS&dib=eyJ2IjoiMSJ9.-ax7qPa1otcitqggRyWXTn02V6ZPnFc4uqnrqz9O4VZgzbX7-5i4P50RrUKAmow5y1Qh6wpUXeQsCUiv9W3dFm3cRL3Scp-A8RJLKOf8uj_sXItyp1Fy-4dMFJIoM04ByhcYcR_R_fEx6FSSV1IdSSeXZkIN2gzhUIfa1HHuOFgY_3IFONvTkeuuSYr0DrNXi-RsjN3WkNp7M7kqG-9SM7IBglgPWzRfoQJpWobHB6kYZEFKoz9Aw3QuSSBmYY56v8raTvlF_8RSwhty4TbdilMAflaR52zxv0_t8wsg9Fk.MvZ9FppJ4VbCLlSVitCV5iMmOueTRuOlBq1PQqXHzXY&dib_tag=se&keywords=RC%2Bpush%2Brod&qid=1746278638&sprefix=crank%2Bairplane%2Bmodel%2Caps%2C1709&sr=8-23&th=1">Purchase Link</a></td>
     </tr>
     <tr>
+      <td>5/10sets M2 304 Stainless Steel Leather Bag Belt Photo Scrapbook Album Book Post Binding Screw Screw Rivet Metal Screws</td>
+      <td>20</td>
+      <td>9.66</td>
+      <td>193.2</td>
+      <td<a href="https://www.amazon.com/YUYUDEHM-Chicago-Assorted-Leather-Bookbinding/dp/B0DGQ5NVW1/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ZDvYCDAXBtBG62ejiAiW4CSjnaCi47Efiv74bibLvAGWfklFwSQQNO1lJrHdHRzRFVCNKgixY3H6o-thvzC2QJCjAChTnKG0-2ZyknDj5FJI-i8tc-juCEpiSnFkbStU4_J-bnksKkSAzQgXSI8CS-W3l_0b48PjTAFTPAfXXpCjPTaxpyG0QFpXXRXQosJ2IWdm5BBuPTt-tiAtHnSfZvuucMJWnI3xHyOHhvsyY0ohFOICZ06IaDj2D4QQUZ2KWgT36kE0EwS4BMqYirFLt3U2-Va3jOT5o7Dmg0BVtsE.IxfmGw4SWixguE2wyZIVGLhj1tulG1hFzF81ZhWF4_0&dib_tag=se&keywords=Screws%2BM3&qid=1746944275&s=industrial&sr=1-9&th=1"Purchase Link</a></td>
+    <tr>
       <td>12Pack Vgoohobby Metal M3 Tie Rod End Ball Holder RC Joint Link Ball Head Holder CW Compatible with HSP Traxxas HPI Axial Redcat Racing 1/10 RC Car Truck Buggy Crawler</td>
       <td>6</td>
       <td>12.99</td>
@@ -119,7 +125,7 @@ All costs are listed in USD.
     </tr>
     <tr>
       <td colspan="3"><b>Total</b></td>
-      <td colspan="2"><b>1401.9</b></td>
+      <td colspan="2"><b>1595.1</b></td>
     </tr>
   </tbody>
 </table>
