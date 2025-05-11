@@ -549,7 +549,7 @@ If you find this project useful, feel free to cite our work!
 @article{Morpheus,
   title={Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control},
   author={Zongzheng Zhang and Jiawen Yang and Ziqiao Peng and Meng Yang and Jianzhu Ma and Lin Cheng and Huazhe Xu and Hang Zhao and Hao Zhao},
-  journal={Robotics science and systems (RSS) 2025},
+  journal={Robotics: Science and Systems (RSS) 2025},
   year={2025}
 }
 ```
