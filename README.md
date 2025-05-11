@@ -20,7 +20,7 @@ RSS 2025<br>
 
 ## Catalog
 - [Bill of Materials](#bill-of-materials)
-- [File content](#file_content)
+- [File content](#file-content)
 - [Building Instructions](#building-instructions)
 - [License and Acknowledgements](#license-and-acknowledgements)
 - [Citation](#citation)
