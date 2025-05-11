@@ -131,6 +131,7 @@ All costs are listed in USD.
 </table>
 
 ## File content
+**Note: This model is compatible with SolidWorks 2020 and later versions.**
 ```plaintext
 CAD_model
 ├── full_assembly.SLDASM
