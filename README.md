@@ -554,10 +554,10 @@ If you find this project useful, feel free to cite our work!
 <div>
 
 ```bibtex
-@article{Morpheus,
-  title={Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control},
-  author={Zongzheng Zhang and Jiawen Yang and Ziqiao Peng and Meng Yang and Jianzhu Ma and Lin Cheng and Huazhe Xu and Hang Zhao and Hao Zhao},
-  journal={Robotics: Science and Systems (RSS)},
+@article{zhang2025chameleon,
+  title={Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction},
+  author={Zhang, Zongzheng and Li, Xinrun and Zou, Sizhe and Chi, Guoxuan and Li, Siqi and Qiu, Xuchong and Wang, Guoliang and Zheng, Guantian and Wang, Leichen and Zhao, Hang and others},
+  journal={arXiv preprint arXiv:2503.07485},
   year={2025}
 }
 ```
