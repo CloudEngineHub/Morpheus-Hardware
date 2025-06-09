@@ -30,7 +30,7 @@ RSS 2025<br>
 ## CAD_model Download
 Due to the large size of the CAD model files, they are hosted on Google Drive instead of being uploaded directly to GitHub. You can download the entire CAD model via the following link:
 
-[Download CAD Model Files](https://drive.google.com/your-link-here)
+[Download CAD Model Files]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1n12V-EUoFsY6ys1dDMhCXVMRPuU5FeQE?usp=drive_link))
 
 Please ensure you have **SolidWorks 2020 or later** installed to open and edit these files.
 
