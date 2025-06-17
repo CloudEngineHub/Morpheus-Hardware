@@ -19,7 +19,7 @@ RSS 2025<br>
 </div>
 
 ## Catalog
-- [CAD_model Download](#cAD_model-Download)
+- [CAD model Download](#cAD_model-Download)
 - [Bill of Materials](#bill-of-materials)
 - [File content](#file-content)
 - [Building Instructions](#building-instructions)
@@ -27,7 +27,7 @@ RSS 2025<br>
 - [License and Acknowledgements](#license-and-acknowledgements)
 - [Citation](#citation)
 
-## CAD_model Download
+## CAD model Download
 Due to the large size of the CAD model files, they are hosted on Google Drive instead of being uploaded directly to GitHub. You can download the entire CAD model via the following link:
 
 [Download CAD Model Files](https://drive.google.com/drive/folders/1n12V-EUoFsY6ys1dDMhCXVMRPuU5FeQE?usp=drive_link)
