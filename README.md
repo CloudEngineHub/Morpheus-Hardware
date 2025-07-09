@@ -3,6 +3,7 @@
   Hybrid Actuation and Diverse Emotion Control</h2>
 
   **RSS 2025**
+  
 <h2>Hardware Design</h2>
 
 
