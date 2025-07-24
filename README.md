@@ -14,7 +14,7 @@
 <sup>3</sup> Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, <br>
 <sup>4</sup> MGI Tech, Shenzhen, China, <sup>5</sup> Beihang University<br>
 <sub>(* indicates equal contribution)</sub><br>
-[**RSS official**](https://roboticsconference.org/program/papers/80/) | [**Project Page**](https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/)
+[**RSS official**](https://roboticsconference.org/program/papers/80/) | [**Project Page**](https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/) | [**arXiv**](https://arxiv.org/abs/2507.16645)
 </div>
 <div align="center">
   <img src="media/teaser.png" alt="teaser_1" height="500"/>
