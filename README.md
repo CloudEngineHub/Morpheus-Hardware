@@ -565,10 +565,10 @@ If you find this project useful, feel free to cite our work!
 <div>
 
 ```bibtex
-@article{zhang2025morpheus,
-  title={Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control},
-  author={Zhang, Zongzheng and Yang, Jiawen and Peng, Ziqiao and Yang, Meng and Ma, Jianzhu and Cheng, Lin and Xu, Huazhe and Zhao, Hang and Zhao, Hao},
-  journal={arXiv preprint arXiv:2507.16645},
+@article{zhang2025ta,
+  title={TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models},
+  author={Zhang, Zongzheng and Xu, Haobo and Yang, Zhuo and Yue, Chenghao and Lin, Zehao and Gao, Huan-ang and Wang, Ziwei and Zhao, Hao},
+  journal={arXiv preprint arXiv:2509.07962},
   year={2025}
 }
 ```
