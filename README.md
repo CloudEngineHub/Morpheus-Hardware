@@ -425,7 +425,7 @@ This part has the same funciton as the mounting structure.
 
 <img src="media/mouth_6.jpg" alt="teaser_1" height="600"/>
 
-Then, three adaptively deformed iron wires are used to connect the crank to the rods.
+Then, three adaptively deformed iron wires are used to connect the crank to the rods. The 2mm-dimeter wires are manually adjusted and equipped with two open terminals at both ends. To connect the wires with the cranks and rods, the suggested method is to use 2mm-dimeter mating screws and bushing whose inner dimeter is 2mm, outter dimeter is 4mm.
 
 <img src="media/mouth_7.jpg" alt="teaser_1" height="600"/>
 
