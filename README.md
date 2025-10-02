@@ -84,7 +84,7 @@ All costs are listed in USD.
       <td>4</td>
       <td>13.99</td>
       <td>55.96</td>
-      <td><a href="[https://www.amazon.com/11-8Inch-Connector-Stainless-Airplane-Helicopter/dp/B0BGQZK6HK/ref=sr_1_23?crid=QHSI5URBI5JS&dib=eyJ2IjoiMSJ9.-ax7qPa1otcitqggRyWXTn02V6ZPnFc4uqnrqz9O4VZgzbX7-5i4P50RrUKAmow5y1Qh6wpUXeQsCUiv9W3dFm3cRL3Scp-A8RJLKOf8uj_sXItyp1Fy-4dMFJIoM04ByhcYcR_R_fEx6FSSV1IdSSeXZkIN2gzhUIfa1HHuOFgY_3IFONvTkeuuSYr0DrNXi-RsjN3WkNp7M7kqG-9SM7IBglgPWzRfoQJpWobHB6kYZEFKoz9Aw3QuSSBmYY56v8raTvlF_8RSwhty4TbdilMAflaR52zxv0_t8wsg9Fk.MvZ9FppJ4VbCLlSVitCV5iMmOueTRuOlBq1PQqXHzXY&dib_tag=se&keywords=RC%2Bpush%2Brod&qid=1746278638&sprefix=crank%2Bairplane%2Bmodel%2Caps%2C1709&sr=8-23&th=1](https://www.amazon.com/dp/B09B3RCDB3/ref=twister_B09B3RLR5K?_encoding=UTF8&th=1)">Purchase Link</a></td>
+      <td><a href="https://www.amazon.com/dp/B09B3RCDB3/ref=twister_B09B3RLR5K?_encoding=UTF8&th=1">Purchase Link</a></td>
     </tr>
     <tr>
       <td>5/10sets M2 304 Stainless Steel Leather Bag Belt Photo Scrapbook Album Book Post Binding Screw Screw Rivet Metal Screws</td>
