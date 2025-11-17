@@ -549,7 +549,7 @@ The lines go through the holes designed on the eye and eyebrow module.
 
 
 ## Silicon Face
-To optimize expression accuracy and realism, especially in tendon-driven regions, we carefully tested silicone materials. We used A00-30 silicone, known for its skin-like softness, and adopted a 3D-printed mold solution for efficient iteration. The silicone was mixed (1:1 ratio), degassed in a vacuum chamber (-0.1 MPa, 5-10 min), poured into the mold, and cured at 25°C for 4-8 hours, followed by a 24-hour resting period to enhance performance. Material tension was adjusted by thickness (2mm, 2.5mm, 4mm, 5mm), with the eye area thinned to 2mm to prevent localized buildup at the eyelid. For tendon-driven sections, xperiments determined that 4mm skin provided the best balance between visibility and actuation capability.
+To optimize expression accuracy and realism, especially in tendon-driven regions, we carefully tested silicone materials. We used A00-30 silicone, known for its skin-like softness, and adopted a 3D-printed mold solution for efficient iteration. The silicone was mixed (1:1 ratio), degassed in a vacuum chamber (-0.1 MPa, 5-10 min), poured into the mold, and cured at 25°C for 4-8 hours, followed by a 24-hour resting period to enhance performance. Material tension was adjusted by thickness (2mm, 2.5mm, 4mm, 5mm), with the eye area thinned to 2mm to prevent localized buildup at the eyelid. For tendon-driven sections, experiments determined that 4mm skin provided the best balance between visibility and actuation capability.
 
 
 <img src="media/silicon_face.png" alt="teaser_1" height="400"/>
